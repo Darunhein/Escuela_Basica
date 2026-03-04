@@ -1,9 +1,9 @@
-public class Alumno {
+public class Alumno{
     String nombre, matricula;
     double cal1, cal2, cal3, promedio;
 
 
-    public Alumno (String nombre, String matricula){
+    public Alumno(String nombre, String matricula){
         this.nombre = nombre;
         this.matricula = matricula;
     }
